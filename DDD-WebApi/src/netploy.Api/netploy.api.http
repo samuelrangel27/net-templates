@@ -1,0 +1,7 @@
+﻿@netploy.api_HostAddress = http://localhost:5024
+
+GET {{netploy.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
