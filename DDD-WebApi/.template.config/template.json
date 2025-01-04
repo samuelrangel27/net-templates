@@ -1,0 +1,14 @@
+{
+  "$schema":"https://json.schemastore.org/template",
+  "author": "Samuel Rangel",
+  "classifications": ["Web", "Api", "DDD", "3-layers"],
+  "identity": "neploy.api.DDD",
+  "name":"DDD api with layers architecture",
+  "shortName":"dddWebApi",
+  "sourceName": "netploy",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  },
+  "preferNameDirectory": true
+}
